@@ -19,10 +19,13 @@ ng --version
 
 and returns the current version of your installed angular
 
-## Step 2) Create a new Angular Project ##
-
+## Step 2) Create a new Angular Project and run it ##
+<p><i>Recomend code Editor: <a href="https://code.visualstudio.com/" alt="Visual Studio Code">Visual Studio Code </a>.  from Microsoft</i></p>
 Run in the command prompt: 
 ng hello-world 
 
-<p><i>Recomend code Editor: <a href="https://code.visualstudio.com/" alt="Visual Studio Code">Visual Studio Code </a>.  from Microsoft</i></p>
+Later,select the folder of our project to open in Visual Studio Code and 
+Run in the command prompt of Visual Studio:
+<path\hello-wolrd\>: ng serve
+
 
